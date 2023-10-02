@@ -12,11 +12,6 @@ This project consists in creating a web forum that allows :
 
 Clone repository:
 
-```bash
-git clone git@git.01.alem.school:iali/forum.git
-```
-
-
 ## Usage
 
 ```bash
